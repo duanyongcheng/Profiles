@@ -329,3 +329,7 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+
+
+# linux.do
+DOMAIN-SUFFIX,linux.do
